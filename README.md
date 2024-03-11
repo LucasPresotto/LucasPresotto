@@ -1,12 +1,20 @@
 ### Hi, I'm Lucas 👋
 
+<details>
+  <summary> More abou me...</summary>
+  My name is Lucas Presotto Costa, I'm 18 years old.
+  Curretly I'm studying Computer Science at IFSC and I'm also a Computer Technician.
+  For now these are the info about me. At first this profile was created for a activity, so we'll see. 
+  Thanks for visting my GitHub's profile. 😊
+</details>
+
 ---
 
 &nbsp;
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPresotto&show_icons=true&hide=contribs&cache_seconds=86400&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPresotto&layout=compact&langs_count=16&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPresotto&show_icons=true&hide=contribs&cache_seconds=86400&theme=jolly"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPresotto&layout=compact&langs_count=16&theme=jolly"/>
 </div> 
 
 &nbsp;
@@ -24,7 +32,7 @@
   <img align="center" alt="Lucas-MySQL" height="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div> 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 &nbsp;
 
@@ -39,4 +47,4 @@
                                                                  
 &nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C15CBC&height=120&section=footer"/>
