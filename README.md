@@ -10,14 +10,14 @@
 
 ---
 
-&nbsp;
+<br>
 
 <div>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasPresotto&show_icons=true&hide=contribs&cache_seconds=86400&theme=jolly"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPresotto&layout=compact&langs_count=16&theme=jolly"/>
 </div> 
 
-&nbsp;
+<br>
 
 ### Technologies and Programming Languages
 
@@ -34,7 +34,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-&nbsp;
+<br>
 
 ### Contact
 
@@ -45,6 +45,6 @@
 <a href="https://instagram.com/presotto_lucas" target="_blank"><img align="center" alt="Lucas-Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>
 </div>
                                                                  
-&nbsp;
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C15CBC&height=120&section=footer"/>
