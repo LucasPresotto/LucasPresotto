@@ -13,8 +13,8 @@
 &nbsp;
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPresotto&show_icons=true&hide=contribs&cache_seconds=86400&theme=jolly"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPresotto&layout=compact&langs_count=16&theme=jolly"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasPresotto&show_icons=true&hide=contribs&cache_seconds=86400&theme=jolly"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPresotto&layout=compact&langs_count=16&theme=jolly"/>
 </div> 
 
 &nbsp;
