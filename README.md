@@ -1,7 +1,7 @@
 ### Hi, I'm Lucas 👋
 
 <details>
-  <summary> More abou me...</summary>
+  <summary> More about me...</summary>
   My name is Lucas Presotto Costa, I'm 18 years old.
   Curretly I'm studying Computer Science at IFSC and I'm also a Computer Technician.
   For now these are the info about me. 
